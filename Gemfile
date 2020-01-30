@@ -9,6 +9,8 @@ gem 'rails', '~> 6.0.2', '>= 6.0.2.1'
 gem 'sqlite3', '~> 1.4'
 # Use carrierwave for image upload
 gem 'carrierwave'
+# Use mini_magick to make thumbnails
+gem 'mini_magick'
 # Use Puma as the app server
 gem 'puma', '~> 4.1'
 # Use SCSS for stylesheets
