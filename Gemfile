@@ -11,6 +11,10 @@ gem 'sqlite3', '~> 1.4'
 gem 'carrierwave'
 # Use mini_magick to make thumbnails
 gem 'mini_magick'
+# Use devise for user management
+gem 'devise'
+# Use cancan for fine-tuning user power
+gem 'cancan'
 # Use Puma as the app server
 gem 'puma', '~> 4.1'
 # Use SCSS for stylesheets
